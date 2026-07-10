@@ -65,7 +65,7 @@
     "micro": "9.3.4",
     "micro-cookie": "1.2.0",
     "minimist": "1.2.3",
-    "morgan": "1.9.1",
+    "morgan": "1.11.0",
     "object-to-xml": "2.0.0",
     "prop-types": "15.6.2",
     "react": "16.13.1",
