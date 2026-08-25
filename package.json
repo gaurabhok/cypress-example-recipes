@@ -121,7 +121,7 @@
     "cypress-wait-until": "1.7.1",
     "dayjs": "1.9.7",
     "dotenv": "8.2.0",
-    "eslint": "6.0.1",
+    "eslint": "10.9.1",
     "eslint-plugin-json-format": "2.0.1",
     "eslint-plugin-mocha": "5.0.0",
     "fs-extra": "7.0.1",
